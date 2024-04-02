@@ -1,0 +1,27 @@
+﻿@model List<MVC_crud.Models.Entities.Customers>
+
+@{
+}
+<h1>List Customer Data</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>CustomerID</th>
+            <th>CompanyName</th>
+            <th>ContactName</th>
+            <th>ContactTitle</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Customer in Model)
+        {
+            <tr>
+                <td>@Customer.CustomerID</td>
+                <td>@Customer.CompanyName</td>
+                <td>@Customer.ContactName</td>
+                <td>@Customer.ContactTitle</td>
+            </tr>
+        }
+    </tbody>
+</table>

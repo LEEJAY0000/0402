@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\MVC_crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{240FED7C-10BC-4D11-85BD-1FE16DCBF23F}|MVC_crud\\MVC_crud.csproj|c:\\users\\student\\source\\repos\\mvc_crud\\mvc_crud\\models\\entities\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FED7C-10BC-4D11-85BD-1FE16DCBF23F}|MVC_crud\\MVC_crud.csproj|solutionrelative:mvc_crud\\models\\entities\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FED7C-10BC-4D11-85BD-1FE16DCBF23F}|MVC_crud\\MVC_crud.csproj|C:\\Users\\Student\\source\\repos\\MVC_crud\\mvc_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FED7C-10BC-4D11-85BD-1FE16DCBF23F}|MVC_crud\\MVC_crud.csproj|solutionrelative:mvc_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FED7C-10BC-4D11-85BD-1FE16DCBF23F}|MVC_crud\\MVC_crud.csproj|C:\\Users\\Student\\source\\repos\\MVC_crud\\mvc_crud\\views\\customerhome\\listcust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{240FED7C-10BC-4D11-85BD-1FE16DCBF23F}|MVC_crud\\MVC_crud.csproj|solutionrelative:mvc_crud\\views\\customerhome\\listcust.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FED7C-10BC-4D11-85BD-1FE16DCBF23F}|MVC_crud\\MVC_crud.csproj|C:\\Users\\Student\\source\\repos\\MVC_crud\\mvc_crud\\controllers\\customerhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FED7C-10BC-4D11-85BD-1FE16DCBF23F}|MVC_crud\\MVC_crud.csproj|solutionrelative:mvc_crud\\controllers\\customerhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FED7C-10BC-4D11-85BD-1FE16DCBF23F}|MVC_crud\\MVC_crud.csproj|C:\\Users\\Student\\source\\repos\\MVC_crud\\mvc_crud\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{240FED7C-10BC-4D11-85BD-1FE16DCBF23F}|MVC_crud\\MVC_crud.csproj|solutionrelative:mvc_crud\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FED7C-10BC-4D11-85BD-1FE16DCBF23F}|MVC_crud\\MVC_crud.csproj|C:\\Users\\Student\\source\\repos\\MVC_crud\\mvc_crud\\data\\mvcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FED7C-10BC-4D11-85BD-1FE16DCBF23F}|MVC_crud\\MVC_crud.csproj|solutionrelative:mvc_crud\\data\\mvcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FED7C-10BC-4D11-85BD-1FE16DCBF23F}|MVC_crud\\MVC_crud.csproj|C:\\Users\\Student\\source\\repos\\MVC_crud\\mvc_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{240FED7C-10BC-4D11-85BD-1FE16DCBF23F}|MVC_crud\\MVC_crud.csproj|solutionrelative:mvc_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FED7C-10BC-4D11-85BD-1FE16DCBF23F}|MVC_crud\\MVC_crud.csproj|C:\\Users\\Student\\source\\repos\\MVC_crud\\mvc_crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{240FED7C-10BC-4D11-85BD-1FE16DCBF23F}|MVC_crud\\MVC_crud.csproj|solutionrelative:mvc_crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240FED7C-10BC-4D11-85BD-1FE16DCBF23F}|MVC_crud\\MVC_crud.csproj|C:\\Users\\Student\\source\\repos\\MVC_crud\\mvc_crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240FED7C-10BC-4D11-85BD-1FE16DCBF23F}|MVC_crud\\MVC_crud.csproj|solutionrelative:mvc_crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListCust.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\MVC_crud\\MVC_crud\\Views\\CustomerHome\\ListCust.cshtml",
+              "RelativeDocumentMoniker": "MVC_crud\\Views\\CustomerHome\\ListCust.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\MVC_crud\\MVC_crud\\Views\\CustomerHome\\ListCust.cshtml",
+              "RelativeToolTip": "MVC_crud\\Views\\CustomerHome\\ListCust.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T10:35:29.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\MVC_crud\\MVC_crud\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MVC_crud\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\MVC_crud\\MVC_crud\\appsettings.Development.json",
+              "RelativeToolTip": "MVC_crud\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T10:25:37.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\MVC_crud\\MVC_crud\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC_crud\\appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\MVC_crud\\MVC_crud\\appsettings.json",
+              "RelativeToolTip": "MVC_crud\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T10:25:36.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\MVC_crud\\MVC_crud\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_crud\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\MVC_crud\\MVC_crud\\Program.cs",
+              "RelativeToolTip": "MVC_crud\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:16:16.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MVCDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\MVC_crud\\MVC_crud\\Data\\MVCDBContext.cs",
+              "RelativeDocumentMoniker": "MVC_crud\\Data\\MVCDBContext.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\MVC_crud\\MVC_crud\\Data\\MVCDBContext.cs",
+              "RelativeToolTip": "MVC_crud\\Data\\MVCDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:04:29.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\MVC_crud\\MVC_crud\\Models\\Entities\\Customers.cs",
+              "RelativeDocumentMoniker": "MVC_crud\\Models\\Entities\\Customers.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\MVC_crud\\MVC_crud\\Models\\Entities\\Customers.cs",
+              "RelativeToolTip": "MVC_crud\\Models\\Entities\\Customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:10:13.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\MVC_crud\\MVC_crud\\Controllers\\CustomerHomeController.cs",
+              "RelativeDocumentMoniker": "MVC_crud\\Controllers\\CustomerHomeController.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\MVC_crud\\MVC_crud\\Controllers\\CustomerHomeController.cs",
+              "RelativeToolTip": "MVC_crud\\Controllers\\CustomerHomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:34:44.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\MVC_crud\\MVC_crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_crud\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\MVC_crud\\MVC_crud\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_crud\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABwAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T10:30:43.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\MVC_crud\\MVC_crud\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_crud\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\MVC_crud\\MVC_crud\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_crud\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:37:23.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
